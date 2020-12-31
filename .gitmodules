@@ -1,0 +1,6 @@
+[submodule "lib/tiny"]
+	path = lib/tiny
+	url = https://github.com/ryanplusplus/tiny
+[submodule "lib/arduino-tiny"]
+	path = lib/arduino-tiny
+	url = https://github.com/ryanplusplus/arduino-tiny
